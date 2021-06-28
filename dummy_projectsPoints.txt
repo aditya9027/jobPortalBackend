@@ -1,0 +1,65 @@
+Common
+======
+1. User Profile    //Completed 
+    - Profile Picture
+    - Phone Number
+    - Location
+    - State, City, Country
+    - Address
+    - Full Name
+    - Date of Birth
+
+2. Change Password.  // completed
+    - Old Password
+    - New Password
+    - Confirm Password
+
+3. Logout
+4. Login     // completed
+5. ForgetPassword
+
+Company
+==========
+1. Post Job
+    - Job Title
+    - Job Description
+    - Job Budget
+    - Job Skills
+    - Location
+    - Fixed or milestone
+    
+2. List Job 
+3. View and edit job 
+4. Filter job based on location, Keyword and skills
+5. Can view all candidate who applied for a job.
+6. Get notification when job is applied by candidate.
+Freelancer
+==========
+1. List all jobs
+2. Filter job based on skills, location and Keyword
+3. Apply Job  
+    - Cover letter
+    - Attach any file
+    - Offer Budget
+    - Delivery Date
+4. Can list applied job in dashboard.
+NOTE:
+1. Please implement private react-router.
+2. Please use validations on all fields.
+3. Try to have clean UI.
+4. Please use any storage source for data (Firebase, MongoDB etc.). Please take help from other if required.
+
+5. Loader on login and all transactions
+
+Company 
+=======
+profile section
+ - Company name
+ - Company location 
+ - Company address
+NOTE
+6. Add Date and time 
+
+public login signup reset 
+private 
+role based
